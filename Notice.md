@@ -1,0 +1,1 @@
+set PYTHONPATH="D:\DataScience_For_mySelf\Internship\Finpros\Volatility_Price_Stocks"
